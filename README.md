@@ -53,27 +53,18 @@
 
 [//]: # (```)
 
-[//]: # ()
-[//]: # (## Citation)
 
-[//]: # (Please cite the [RC-PPO paper]&#40;&#41;.)
+## Citation
 
-[//]: # (```bibtex)
+Please cite the [RC-PPO paper]().
 
-[//]: # (@inproceedings{)
-
-[//]: # (	so2024solving,)
-
-[//]: # (	title={Solving Minimum-Cost Reach Avoid using Reinforcement Learning},)
-
-[//]: # (	author={So, Oswin and Ge, Cheng and Fan, Chuchu},)
-
-[//]: # (	booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},)
-
-[//]: # (	year={2024},)
-
-[//]: # (	url={https://openreview.net/forum?id=jzngdJQ2lY})
-
-[//]: # (})
-
-[//]: # (```)
+```bibtex
+@inproceedings{
+	so2024solving,
+	title={Solving Minimum-Cost Reach Avoid using Reinforcement Learning},
+	author={So, Oswin and Ge, Cheng and Fan, Chuchu},
+	booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
+	year={2024},
+	url={https://openreview.net/forum?id=jzngdJQ2lY}
+}
+```
