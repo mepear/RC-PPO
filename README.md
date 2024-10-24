@@ -14,7 +14,7 @@
 ### Solving Minimum-Cost Reach Avoid using Reinforcement Learning
 [Oswin So*](oswinso.xyz), [Cheng Ge*](https://github.com/mepear), [Chuchu Fan](https://chuchu.mit.edu)
 
-[Webpage](https://mit-realm.github.io/efppo/) &ensp; ❘ &ensp;
+[Webpage](https://oswinso.xyz/rcppo) &ensp; ❘ &ensp;
 
 [//]: # ([Installation]&#40;#installation&#41; •)
 
